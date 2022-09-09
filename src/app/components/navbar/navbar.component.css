@@ -1,0 +1,8 @@
+.nav {
+    padding-left: 40px;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+}
